@@ -72,3 +72,7 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+City_Sim/Content/StarterContent/
+City_Sim/Intermediate/
+City_Sim/Saved/
+City_Sim/Binaries/
